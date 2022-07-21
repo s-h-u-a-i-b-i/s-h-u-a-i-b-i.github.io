@@ -2,9 +2,9 @@
 <html lang="zh">
 
 <head>
-<title>吃掉蔡徐坤</title>
+<title>吃了蔡徐坤</title>
     <title data-i18n="eat-kano"></title>
-    <meta itemprop="name" content="吃掉蔡徐坤" />
+    <meta itemprop="name" content="小黑子树脂666" />
     <meta itemprop="description" content="鸡太美" />
     <meta charset="utf-8" />
     <meta name="viewport" content="initial-scale=1, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0, width=device-width,target-densitydpi=device-dpi" />
